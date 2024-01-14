@@ -87,7 +87,7 @@ namespace ConsoleApplication1
 
                         }
 
-                        Console.WriteLine("2) Which country has the most Michelin starred restaurants? A: India \n B: France \n C: Japan \n ");
+                        Console.WriteLine("2) Which country has the most Michelin starred restaurants?\n A: India \n B: France \n C: Japan \n ");
                         String answer2 = Console.ReadLine();
 
                         if (answer2 == "B" || answer2 == "b" || answer2 == "France")
